@@ -1,4 +1,4 @@
-package com.mani.designpatterns.singleton;
+package com.mani.designpatterns.creational.singleton;
 
 public class SingleEagerInitialization {
 
